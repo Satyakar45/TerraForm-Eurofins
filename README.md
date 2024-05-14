@@ -1,2 +1,1 @@
-# TerraForm-Eurofins
-Terraform Training From Eurofins
+# ashu-euro-terraform
